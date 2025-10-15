@@ -1,11 +1,11 @@
 # TITULO DEL DESIGN DOC
-Link: [Link a este design doc](#)
+Link: [[Link a este design doc]](https://github.com/EleazarRamirez/Backed1-2025-2/edit/main/README.md](#)
 
-Author(s): Charlie L
+Author(s): Eleazar Ramirez
 
 Status: [Draft, Ready for review, In Review, Reviewed]
 
-Ultima actualización: YYYY-MM-DD
+Ultima actualización: 2025-10-14
 
 ## Contenido
 - Goals
@@ -15,7 +15,7 @@ Ultima actualización: YYYY-MM-DD
 - Detailed Design
   - Solucion 1
     - Frontend
-    - Backend
+    - Backend  
   - Solucion 2
     - Frontend
     - Backend
