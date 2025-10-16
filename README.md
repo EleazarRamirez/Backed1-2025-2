@@ -1,4 +1,4 @@
-# TITULO DEL DESIGN DOC
+# mapa dinamico
 Link: [[Link a este design doc]](https://github.com/EleazarRamirez/Backed1-2025-2/edit/main/README.md](#)
 
 Author(s): Eleazar Ramirez
@@ -9,7 +9,13 @@ Ultima actualización: 2025-10-14
 
 ## Contenido
 - Goals
+    - buscar locales por cateoria
+    - buscar locales por zona
+    - buscar locales por horario
 - Non-Goals
+    - no muestra indicaciones
+    - sin tiempo de recorrido
+    - 
 - Background
 - Overview
 - Detailed Design
