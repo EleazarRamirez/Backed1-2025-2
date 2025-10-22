@@ -34,9 +34,9 @@ Ultima actualización: 2025-10-14
 
 ## Objetivo
 _Que y porque estamos haciendo esto?_
-
+este es sera un mapa dinamico, el cual se creara con la finalidad de al buscar un local de algo en especifico ya sea de ropa, comida, ocio, etc... podamos encontrar los existentes en nuestra ciudad y saber si estan abiertos o simplemente su horario, ademas de poder localizar por zonas.
 _Incluye contexto para las personas que no están familiarizadas con el proyecto._
-
+para tener acceso a la ubicacion de locales y establecimientos que existen en el estado de baja california en especifico de la ciudad de ensenada. y conocer que tipo de local es, el horario y la zona en la que se encuentra.
 _Mantenlo corto, elabora en **Background, Overview y Detailed Design**_
 
 _Añade screenshots / mocks si lo ves necesario_
